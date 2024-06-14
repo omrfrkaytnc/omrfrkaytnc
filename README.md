@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omerfarukaytunc-blue)](https://linkedin.com/in/omerfarukaytunc)
 [![GitHub](https://img.shields.io/badge/GitHub-omrfrkaytnc-green)](https://github.com/omrfrkaytnc)
-
+[![Kaggle](https://img.shields.io/badge/Kaggle-omerfarukaytunc-blue)](https://kaggle.com/omerfarukaytunc)
 ---
 
 ## About Me
