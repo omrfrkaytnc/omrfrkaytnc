@@ -71,4 +71,4 @@ Nov 2023 – Apr 2024
 - Production Level for Data Science
 
 **UDEMY - Vahit Keskin (50 Hours) Python A-Z™: Veri Bilimi ve Machine Learning**  
-Nov 2023
+June 2023 - Nov 2023
