@@ -1,8 +1,14 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=omrfrkaytnc.kullaniciadi)
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omrfrkaytnc&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omrfrkaytnc&layout=compact&theme=radical)
 ![GitHub followers](https://img.shields.io/github/followers/omrfrkaytnc?label=Follow&style=social)
+
+
 ![GitHub stars](https://img.shields.io/github/stars/omrfrkaytnc?label=Stars&style=social)
+
+
 # Omer Faruk Aytunc
 
 **Data Scientist | Data Analyst | AI/ML Engineer**
