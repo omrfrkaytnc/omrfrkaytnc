@@ -1,4 +1,3 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=omrfrkaytnc.kullaniciadi)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omrfrkaytnc&show_icons=true&theme=radical)
