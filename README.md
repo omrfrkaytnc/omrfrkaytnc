@@ -29,7 +29,14 @@
 
 I am a motivated Data Scientist with expertise in Python, SQL, machine learning, deep learning, NLP, data visualization, and handling large datasets. My strong analytical and problem-solving skills enable me to optimize data-driven decision-making.
 
-With a background in mathematics teaching and e-commerce, I bring experience in operational applications and customer satisfaction. Proficient with git-based version control systems (Azure DevOps, GitHub, Gitlab) and CI/CD processes, I transform functions, models, and loops into tangible results, deploying robust data solutions. My solid theoretical knowledge and passion for practical applications drive continuous growth in data science and machine learning.
+I am a results-driven Data Scientist with over 2 years of experience in machine learning and advanced data
+analysis. My expertise includes Natural Language Processing (NLP), Generative AI, and Large Language
+Models (LLMs). I use Python, SQL, and TensorFlow, along with libraries such as Scikit-Learn, Pandas, and
+Matplotlib, to analyze and visualize data. Proficient in business intelligence tools like Power BI and Microsoft
+Excel, I excel in delivering actionable insights. Experienced with both relational databases (PostgreSQL, SQL
+Server) , I also build and deploy applications using Flask and Docker, Kubernetes and CI/CD and manage data
+on AWS EC2 and S3. With familiarity in project management tools like Jira and Git/GitHub, I am committed
+to solving complex problems and driving innovation through continuous learning
 
 ## Skills
 
